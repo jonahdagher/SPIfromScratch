@@ -1,0 +1,8 @@
+# SPIfromScratch
+
+
+## MASTER STRUCT
+
+### INITALIZATION
+
+- Master(CLCK_PIN, CS_PIN, MOSI_PIN, MISO_PIN, PHASE=DEFAULT, POLARITY=default)
